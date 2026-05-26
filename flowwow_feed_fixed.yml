@@ -1,0 +1,1578 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-05-26 18:26">
+  <shop>
+    <name>Flower Shop</name>
+    <company>Flower Shop</company>
+    <url>https://flowwow.com</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Цветы и подарки</category>
+    </categories>
+    <offers>
+      <offer id="0d497775-f7af-469e-a6d9-2accbd85f6bb" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 розовых хризантем и 3 веток эвкалипта</name>
+        <price>1999</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20012354/ca70d7a1162ca35efcacc7d3c366aec5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/c74c8725bed53a2bef62b5e9ab1566a4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/c3fed50b0196feeb3e5cc9bc5807a6a2/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/62ac153881cf45e6e6e8758efa40c819/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/3351ff29cc9b332d7b6902493199dcf3/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/2006cd67c95f6b6085342f81a7d74fb1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/113b08a66561cdcb4d617a6887ec139f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/552312f8b3690a702f21b6ed2c5d05c9/orig</picture>
+        <description>&lt;![CDATA[Тишью белое - 3 шт
+плёнка матовая полупрозрачная-2 листа
+плёнка матовая розовая- 3 листа
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых хризантем" unit="шт">3</consist>
+        <consist name="Веток эвкалипта" unit="шт">3</consist>
+      </offer>
+      <offer id="4648f98c-1e01-431d-a57a-381d716ed99c" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 5 розовых хризантем и 4 белых эустом</name>
+        <price>4430</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/bc1df559b9d2579ca66488d091215d8b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/8d77b300921ec632ff6602aa5778637a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/8f2b095d6e5d96247d49f28c8e5fd2a6/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/e833abcc565b3e7e68d4ae882db18311/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/f6ffbf55e7eb5601e7c36e812c752418/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/e306f0fab710fb76d690e06b465c9a72/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+ Плёнка матовая полупрозрачная- 2 листа
+ Плёнка матовая зелёная- 2 листа
+ лента зелёная
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых хризантем" unit="шт">5</consist>
+        <consist name="Белых эустом" unit="шт">4</consist>
+      </offer>
+      <offer id="e4e45f54-5eff-4ca3-9519-7d5b37b0d01e" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 10 белых и 5 розовых хризантем</name>
+        <price>4999</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/c65a92ad4bec1895c73b6fc5161c8da7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/ebd2a9cbe1324ac056bc974979b63c2c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/f6a7df3e3ef8e1941b3f8f3a384fe8a5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/81efd16053ebb18793e232b5eb7fe5b8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/a3bd7379069a2923deb7b89429287fa3/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая зелёная- 3 листа
+Лента зелёная
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Белых" unit="шт">10</consist>
+        <consist name="Розовых хризантем" unit="шт">5</consist>
+      </offer>
+      <offer id="10ed3328-0f07-4dfe-aeb5-8067d5986946" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 9 красных роз и 4 веток эвкалипта</name>
+        <price>4300</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/f60864f1929e4a6b84190e9d3c5e0760/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/db5cc076ccbdd0d192703c6b64de702a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/f2424f6c42a6ab164f4d2afde48f4012/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/1d5302678ec4743de9c75d492235e9d4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/59ba8bfd23fa526d9557760dc4b06945/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/1518b246e1a015098c33caccefa4ef2c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/d353995f37b5ae660bfe97acb01bebd0/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17763632/bd4934fc17f4145db3b66586d057f3cc/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая зелёная- 3 листа
+лента красная
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Красных роз" unit="шт">9</consist>
+        <consist name="Веток эвкалипта" unit="шт">4</consist>
+      </offer>
+      <offer id="2b84bc95-b9d1-4724-b97f-bfc98e6fc679" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 5 белых роз, 4 розовых эустом и 3 веток эвкалипта</name>
+        <price>5510</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/a7bea93189353270dd86db6e260d225c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/781ffa03e052b2ca930bb5d9caac0d73/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20012354/18a3875452fe7581bcf117a034d6987c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/c8e63c0dabe29fa1b0ca4e151cc7e69e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/175fcd62e4c0b7066875c300ff706a3b/orig</picture>
+        <description>&lt;![CDATA[Тишью розовое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая розовая- 2 листа
+Лента розовая
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых эустом" unit="шт">4</consist>
+        <consist name="Веток эвкалипта" unit="шт">3</consist>
+      </offer>
+      <offer id="cae1f42c-d1d3-4717-9a9e-febbdbfbf5d9" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 35 красных роз</name>
+        <price>11570</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/291f15db04fcfdf030abf94f38c7350f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/2fe555e96d2aa3675f5162fe3283cae5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/df784aec6172435ede0e36511b12716b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/86d73a2fe805baa72bf756d933ed0b11/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/5cbc7ef3669b1d547335a8454f17c28b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/cc0bf74a8a4e408d21aea4ed31b393b6/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+ Плёнка матовая зелёная- 3 листа
+ Лента зелёная
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Красных роз" unit="шт">35</consist>
+      </offer>
+      <offer id="7fdf613e-ccc2-4ad9-8df0-23da6319c748" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 голубой гортензии, 3 белых роз, 3 белых эустом и 3 веток эвкалипта</name>
+        <price>4550</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/b5960cdf79db237718d8dbe5ca8401f8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/bc1aaf1eea2910a78650b76258c46743/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/cc568ab1fe2d9d2e9f6dbbd7984c932a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/46cd616c46b73a365b43da021c245c37/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/e9c1afdf1bf08c849b3ba3ac44d9aff8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/5a8109eeb32b56c52a42b82e897e3923/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+ Плёнка матовая полупрозрачная- 2 листа
+ Плёнка матовая голубая- 2 листа
+ лента голубая
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Белых эустом" unit="шт">3</consist>
+        <consist name="Веток эвкалипта" unit="шт">3</consist>
+      </offer>
+      <offer id="71643e15-c2a1-4772-811c-fc06af643f0f" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 белых и 2 розовых гортензий</name>
+        <price>4430</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/5eb5c395f43d37afb928d3dfe8c71162/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/8a6fb19766ba8df504710b8332a10636/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/ca1bcab97eb012f9e83add2e7a8b6809/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/d012914f6771e9309b816f62df82eb59/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/9256d1d4af9438db4183192eaff350bd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/2d47123a3fa84f72b73381e0d1469b70/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая розовая- 3 листа
+Лента розовая
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Белых" unit="шт">3</consist>
+        <consist name="Розовых гортензий" unit="шт">2</consist>
+      </offer>
+      <offer id="3efc5619-2d7f-4962-959c-3bfd804502f0" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 розовых гортензий</name>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/14231618cd27638f440a104f4ab688ad/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/24e659578e2bedc8384d7366ecd5d5d7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/fdcaeaf4168e30ceb1fa6d4dd2f81034/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/2b2a8165b7e82c9172d8d85d535daa74/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/8c6e4c54f29e4133b7099fd680c535ab/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18022535/7fdb39800ce540c181f61d151d3e4d59/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19853791/9707467741b19c7667683c844e50b1a6/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая розовая -2 листа
+лента розовая
+
+Высота-50см
+Ширина-60см]]&gt;</description>
+        <param name="Ширина">60</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых гортензий" unit="шт">3</consist>
+      </offer>
+      <offer id="0b06b47c-a6bd-4bb1-affa-e10264f21f1c" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 15 красных роз</name>
+        <price>4999</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/0209acf852630e05385bfbb3af67ce08/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/56621d5427139a5349c33ff661843a48/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/ca5ead956ac4325afee42b0603311156/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/50adb8c5cd32437c696b36d1533dfbf6/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/5cf2aa2059760338c1cbdfae1b1054d9/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18022535/6ffc1d0b252f697c5ba118645452b5d3/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая белая -2 листа
+Лента красная
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Красных роз" unit="шт">15</consist>
+      </offer>
+      <offer id="e8da5830-6064-46d8-b6d2-34fcad720ca4" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 5 белых хризантем и 4 белых эустом</name>
+        <price>4430</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/aebb9fca00e3f7f4460953d6e2df7f7e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/c0bfafedae196eee5b96c73da5295358/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/7e36deca9b9016ea4ec7e6d7d5993dbc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/901901fc033279f046fc6a4dc5e29769/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/09c185f323116277c128dbe3c425ea1f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/1930a1fa2159bb1d563bc9bb90bc9b74/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+ Плёнка матовая полупрозрачная- 2 листа
+ Плёнка матовая голубая- 2 листа
+ лента голубая
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Белых хризантем" unit="шт">5</consist>
+        <consist name="Белых эустом" unit="шт">4</consist>
+      </offer>
+      <offer id="0e752be7-b993-406f-a40d-b428af73a8e9" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 белых хризантем и 2 розовых гипсофил</name>
+        <price>1599</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/70fe31b480da3d247a0801cdc4050305/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/19cc6fd70b85131c8ee65782111c4745/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/17191743a40235da50d40d9d55cb6361/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/600763ef188c5bfbc5505df65dd0c115/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/5ceb493ba709f9244b1679e3156a4c27/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/2b55479571a8845b34c47ee29bf69be8/orig</picture>
+        <description>&lt;![CDATA[Тишью розовое- 3 листа
+ плёнка матовая полупрозрачная- 2 листа
+ плёнка матовая розовая - 2 листа
+ лента розовая
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Белых хризантем" unit="шт">3</consist>
+        <consist name="Розовых гипсофил" unit="шт">2</consist>
+      </offer>
+      <offer id="9a855e38-498e-4726-bea4-a2e8e81f28c2" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 9 розовых хризантем</name>
+        <price>2999</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/c522d304f8f82ce9411d4981071e387d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/6e5d1c3292a03475b032f4d16e23e578/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/4445138b9f9f68437fbb9f91fe301a5e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/c10c19c2f04c4ae96ff6a70e53af91da/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/b86b80ddad06597d46e2288fa9c96b94/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая розовая- 3 листа
+Лента розовая
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Розовых хризантем" unit="шт">9</consist>
+      </offer>
+      <offer id="17caf868-f89c-4b91-bdf6-02a949da96d3" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 розовых хризантем и 2 розовых гипсофил</name>
+        <price>1599</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/d4fba4b0d376643abc1ea70a4362982d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/b29fc88a6f0fdd8d87a9347cdebddefd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/db46f9f17e3a7a30784aa897ca0cc8cf/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/f1043ae3544946b77cf64349339604cb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/492239356952c35165a7d1fdab59cd7f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/d6888e100d549a018e89714b43591c78/orig</picture>
+        <description>&lt;![CDATA[Тишью розовое- 3 листа
+плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая розовая- 3 листа
+лента розовая
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых хризантем" unit="шт">3</consist>
+        <consist name="Розовых гипсофил" unit="шт">2</consist>
+      </offer>
+      <offer id="3d1e3953-8e58-497a-bee0-58e6a913c421" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 15 белых роз</name>
+        <price>6110</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/8611d7d1e0099f723d479f9a18692f9e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/7d7b6b4b9bf335786016e3f5b6be5418/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18022535/280a57b25d8260af2b8b2c97e8852428/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/124f4f7cbb3525c8be427b71c9a59222/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/b9a793644293cc3c9fd6fc17dac074dd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/ec7b56cd4b0a79dbc0f67b8d59407616/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая розовая -2 листа
+лента розовая
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Белых роз" unit="шт">15</consist>
+      </offer>
+      <offer id="203f8362-1f54-49af-b733-dca56efcebb1" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 5 голубых гипсофил</name>
+        <price>1599</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/e7d50eb646a0d982b0da2eb09ccb0a5c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/20ffa79f23306139d129f419061aeffc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/d2e7da79abc7275cdac7ba1efc8d175a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/6d04fddf7df134a57d0024048dad4906/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/436b2f0c78c51da3a9413e67b12dbd01/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/46336edb33563335a151a7b00303293a/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая голубая- 3 листа
+лента голубая
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Голубых гипсофил" unit="шт">5</consist>
+      </offer>
+      <offer id="18a6764d-46d1-44ce-8f62-dca2cc39cae9" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 голубой гортензии, 5 белых роз, 4 белых эустом, 2 голубых гипсофил и 4 веток эвкалипта</name>
+        <price>7105</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/762bf1b72be5ba8da60e522d81733f15/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/bdcea9da4fe7999675461977aa81c576/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/3fccb71c4ecef28b0a373c55345d065d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/b648d2b4f78f99bcc5a2e241f872359a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/69a2057a514c800ea1f7db5bb0cbf102/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/17589d512797f2ca3558844315876371/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+ Плёнка матовая голубая- 3 листа
+ Лента голубая
+
+Высота-50см
+Ширина-35см]]&gt;</description>
+        <param name="Ширина">35</param>
+        <param name="Высота">50</param>
+        <consist name="Голубых гипсофил" unit="шт">2</consist>
+        <consist name="Веток эвкалипта" unit="шт">4</consist>
+      </offer>
+      <offer id="f48942fa-3a47-4a03-bea4-5ca0bfcb8c5a" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 голубых гортензий и 4 голубых гипсофил</name>
+        <price>3950</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/e228a91a429d94a20d0114be7492e409/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/5a91fff977062fd0fbc136e0b4e95716/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/b52b3a717f809b08b257945d0b5fc5e1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18022535/8be7b52b6b90ded166078d1a93963f19/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/dc66306693ed3b530d4040afd59420bf/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/e6255332f5f01e57f14405abaf2c7e7c/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+ Плёнка матовая белая- 3 листа
+ Лента белая
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Голубых гортензий" unit="шт">3</consist>
+        <consist name="Голубых гипсофил" unit="шт">4</consist>
+      </offer>
+      <offer id="db6aae0a-6f87-42aa-a5c7-e191081435bd" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 розовой гортензии, 3 красных роз, 3 розовых эустом и 3 веток эвкалипта</name>
+        <price>4740</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20012354/ad8c9336bf3f106f98d9ec75702266ec/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/0ce69761b2fbf931a64bbaa2329c910a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/b77060d1702062bc15afdf15f7162bf7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/dc572de116b8a87e9af8bdea64cbc037/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/2cb860fcf9173dd7418223057ba5fe11/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/dac09e2cd6982d74aeab49b18d3488ab/orig</picture>
+        <description>&lt;![CDATA[Тишью розовое- 3 листа
+ плёнка матовая полупрозрачная- 2 листа
+ Плёнка матовая розовая- 2 листа
+ лента розовая
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых эустом" unit="шт">3</consist>
+        <consist name="Веток эвкалипта" unit="шт">3</consist>
+      </offer>
+      <offer id="568ae7fe-b492-4c0e-8fd5-df2cc186c4ec" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 5 розовых хризантем</name>
+        <price>1899</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/b2d33590f7710dedaa3212489e03c188/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/a878064b8f81a4a83f92626e43ad349c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/5aae3f116dd2c3dc1614cd18fa5e2700/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/682bd9a7d960e68b381d4ce07f7b395b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/e623524612223cb4da8f6ea7604a80c4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/16ae4670fd50687ca24058ba467364e4/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая розовая -2 листа
+лента розовая
+
+Высота-60см
+Ширина-55см]]&gt;</description>
+        <param name="Ширина">55</param>
+        <param name="Высота">60</param>
+        <consist name="Розовых хризантем" unit="шт">5</consist>
+      </offer>
+      <offer id="7de8693d-81c8-451d-b448-76778da6e2e3" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 5 белых хризантем</name>
+        <price>1899</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/cd7b3de343cf3fde7889f58ee78da50c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/d1d2dffabd633e8753b5801ba22e0f76/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17763632/38c114acba897c862f33cb6422e15391/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/c5d616f7e7e033aed972a4cc95f79ee2/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/3743b75960d706884fb59b3784e9f143/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/8cee7aaffba3a55d14589c4d2c7b16a7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/3008f0b16d5babee7068f48ec1d49a91/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая зелёная- 2 листа
+лента зелёная
+
+Высота-60см
+Ширина-55см]]&gt;</description>
+        <param name="Ширина">55</param>
+        <param name="Высота">60</param>
+        <consist name="Белых хризантем" unit="шт">5</consist>
+      </offer>
+      <offer id="761ba787-bc43-413f-aac1-f35299a1015a" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 13 красных и 12 белых роз</name>
+        <price>9230</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/ab60b6e9a2e33567ddb466835b86def8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/3e0254bd644bde7658e273d9643f5d3d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/792885c58cab92fd2f9100de9366cfde/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/032aadacf361ab0602144de92adbf958/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/a65dd42d3f7c11a97b13b42e59baebaa/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/0a46865decde503fc3f0018d88d0c5ab/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/d2eba4ff2e545a9ef07698b2a027eeb9/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/f1f161390b5649c1e5b084c46bbb0e79/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая белая -2 листа
+Лента красная
+
+Высота-50см
+Ширина-35см]]&gt;</description>
+        <param name="Ширина">35</param>
+        <param name="Высота">50</param>
+        <consist name="Красных" unit="шт">13</consist>
+        <consist name="Белых роз" unit="шт">12</consist>
+      </offer>
+      <offer id="766b17ca-d58f-43f4-9478-f31c08e65b91" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 25 белых и 26 красных роз</name>
+        <price>18060</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/59851afad2676344063474cde8b1235f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/88b2f73f072316da38c0e7c5b68d7ec3/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/5a6fbc1c2c67a7aee2cb0504559f7c61/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/c53f0bc4adb04f14d86aebd80134b694/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/4eccae12a2c6cf3aca300c15e2ebc747/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая белая- 3 листа
+Лента белая
+
+Высота-50см
+Ширина-35см]]&gt;</description>
+        <param name="Ширина">35</param>
+        <param name="Высота">50</param>
+        <consist name="Белых" unit="шт">25</consist>
+        <consist name="Красных роз" unit="шт">26</consist>
+      </offer>
+      <offer id="18fc0d6e-17cd-4bfd-87ac-0141ccb5e44b" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 5 белых хризантем и 4 розовых эустом</name>
+        <price>4430</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/b28696b3cc3312786eb01259e3136aed/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/8f720de44209eeac32bc440e3058fef1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/dc5b7baae73ce0b91b4bcbe96af59237/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/725f4572137b8a3694f73b1a3c14c39c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/60fa0cd4381800b8043d753bafd0b9b7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/1c5375ca9a29444649d43e5d23650485/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/21ef221419bbd46039e9b3494213b6af/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+ Плёнка матовая полупрозрачная- 2 листа
+ Плёнка матовая розовая -2 листа
+ лента розовая
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Белых хризантем" unit="шт">5</consist>
+        <consist name="Розовых эустом" unit="шт">4</consist>
+      </offer>
+      <offer id="ef671fcb-12fd-489e-a8e9-77a8d78d8891" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 розовой гортензии и 2 веток эвкалипта</name>
+        <price>1499</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/deec338f56b76fc7881cb7db32d209a3/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/0a5d97d1875651aede07520c941da3fb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/c233c07e296357709704ef38091f1efb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/312fd289ff30fbc779582cce46f9938a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/3d0ee15856f7f957de916da8cb154d17/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/530b21b4e718700c5f1e1f77af1c701f/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая белая -3 листа
+Лента белая
+
+Высота-50см
+Ширина-20см]]&gt;</description>
+        <param name="Ширина">20</param>
+        <param name="Высота">50</param>
+        <consist name="Розовой гортензии" unit="шт">1</consist>
+        <consist name="Веток эвкалипта" unit="шт">2</consist>
+      </offer>
+      <offer id="64bdc62b-70d5-4da3-aeee-970d442e3168" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 15 белых роз и 10 розовых эустом</name>
+        <price>12230</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/0b91295f49402bf7b6f30f9efcb1833f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/9246a48329433ea60dcdb3c1fbbb4707/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/d692ba71820655787cb20528f3c6a551/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/77e496c308b364afa662ff1450d8f0e0/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/8f88c882851460b48ae5fcae51b70ce9/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/578ed2c706f01d6686b63c4893cb9912/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая розовая- 3 листа
+Лента розовая
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Белых роз" unit="шт">15</consist>
+        <consist name="Розовых эустом" unit="шт">10</consist>
+      </offer>
+      <offer id="7f02ec72-476c-44aa-89d1-84029ae2417a" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 белых гортензий и 4 голубых гипсофил</name>
+        <price>3760</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/bd0c187c4a7017ca77f058566537202c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/799e0bca80267763dbbfd1ee373e3d3f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/560706d79fc751784520b6fb1b301750/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/f1f23b2c1727aa68d23dc7befd4c87d8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/42865d252db098c22920bac74fd2c596/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/a3612aa6495ea4c9601e99180b442509/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+ Плёнка матовая голубая- 3 листа
+ Лента голубая
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Белых гортензий" unit="шт">3</consist>
+        <consist name="Голубых гипсофил" unit="шт">4</consist>
+      </offer>
+      <offer id="c4417cdb-f971-494a-bd0d-2fb4ce036fff" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 белых и 2 голубых гортензий</name>
+        <price>4480</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17763632/c9f76aafcc138f1dcc9f8c039bb5dab5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/dc46e7984bde92359c28a40c9ae7e74b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19853791/c57a7a4bb6f8928e5e9c52fac228e6e2/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/62ee080bc385ffc0cae1034baf7fdfc2/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/ee146ff88553c5599182b04b4b8fddaf/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/52feccc326d0f45fae52a3312bb472f1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/56fdec62f62656b835e1b34346333587/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая голубая- 3 листа
+Лента голубая
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Белых" unit="шт">3</consist>
+        <consist name="Голубых гортензий" unit="шт">2</consist>
+      </offer>
+      <offer id="6a9b33a8-092c-48fb-b6a6-d394e36d4ec8" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 белой гортензии и 2 веток эвкалипта</name>
+        <price>1499</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/24dd6e772029d8b8071a1039c46e80d7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/6fadefa8a831d483d8595e32d992d2dc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/2f8164eae135f3d70aa68af9cec71da1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/c2db5f4d888edc6d545ec251230e6015/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/c96aa1a2e1c7d8b0a8c6da225f184d9f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/1a64d096731e27c6c2206e697519dc96/orig</picture>
+        <description>&lt;![CDATA[Тишью розовое - 3 шт
+плёнка матовая полупрозрачная-2 листа
+плёнка матовая розовая- 3 листа
+
+Высота-50см
+Ширина-20см]]&gt;</description>
+        <param name="Ширина">20</param>
+        <param name="Высота">50</param>
+        <consist name="Белой гортензии" unit="шт">1</consist>
+        <consist name="Веток эвкалипта" unit="шт">2</consist>
+      </offer>
+      <offer id="02aab0ef-07ab-4e52-a654-bdc05c1de5c0" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 розовой гортензии и 2 розовых гипсофил</name>
+        <price>1499</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/4cc4056429c7a637dec5957e232e8797/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/c10d12c72c32b57ba18aaf64310251f3/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/8f1c1cd56886c2c2f78b5f7e0042d721/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/d79d552ddd52392a4e11d2e509780b84/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/c7c9122be4964708aeadd34261e32208/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/e2d6b1362c7f7d4a1bd33cda0f7d12ac/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/5b45ec3d67105fbfed5b4f19466ebaa1/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+ Плёнка матовая полупрозрачная- 2 листа
+ Плёнка матовая белая -3 листа
+ Лента белая
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Розовой гортензии" unit="шт">1</consist>
+        <consist name="Розовых гипсофил" unit="шт">2</consist>
+      </offer>
+      <offer id="7f4c7763-ca35-4ac7-97f6-dc2400eec721" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 белых хризантем и 4 веток эвкалипта</name>
+        <price>2390</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/485e096e3703b7ef672ac553f46243f6/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/ab0611c7404fae45b0205eb259083c9d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/3e2a876a251151ccdb7fd530823b9ca7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/399cf1eee630f8c5d067a9c257fac454/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/9f9f8028dbe215e942833f86a0969d85/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/e4d3b4c6f1f7b7eaa72ea706b1957ed3/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая зелёная- 3 листа
+лента красная
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Белых хризантем" unit="шт">3</consist>
+        <consist name="Веток эвкалипта" unit="шт">4</consist>
+      </offer>
+      <offer id="2547f857-a26e-4862-927d-3d276f8fd235" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 9 белых хризантем и 6 розовых гипсофил</name>
+        <price>4790</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/6787be9e8e7d10849d02d3c47e0f6665/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/7449c804cc522835b133600b51a1f2fd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/7aaddc989356249eba347ae3b2528a80/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/62dd1b0752e6b02b42dd9fbe903b8475/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/c25df8ddbed3ed55904fa02ec57a1caa/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая розовая- 3 листа
+Лента розовая
+
+Высота-60см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">60</param>
+        <consist name="Белых хризантем" unit="шт">9</consist>
+        <consist name="Розовых гипсофил" unit="шт">6</consist>
+      </offer>
+      <offer id="da80992f-1a91-47ec-940a-398a07eb4940" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 белых гортензий</name>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/63e2c3ab9791e5adfcd5adfbca8c6681/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/717f09bf13b40c45c24f270eeee15c07/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/eb80cb414c5b3fe8b058d82adb65e20e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/a0c160577e20a0126647dee1202ce5bb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/2c05bb3c34f16dddd67645be8511eeb3/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая зелёная- 2 листа
+лента зелёная
+
+Высота-50см
+Ширина-60см]]&gt;</description>
+        <param name="Ширина">60</param>
+        <param name="Высота">50</param>
+        <consist name="Белых гортензий" unit="шт">3</consist>
+      </offer>
+      <offer id="1f667e76-9d8b-4ddf-a5a2-6603d2805310" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 розовой гортензии, 5 красных роз, 2 розовых гипсофил, 4 розовых эустом и 4 веток эвкалипта</name>
+        <price>6805</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/4d5002d70b5f2cb0a34fa617207bfc0b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/6e130b3692045a86aa8afbdcc88db138/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/fdd4d625406e355acbb6a7f8e3fa03af/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/e3a6209d9b9e84fd0eec8a26cca48100/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/e2c43111a046ea9e2c6c6d4f77ea9d04/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/00df406e65b6ab42e61f5a3d2cc37b89/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+ Плёнка матовая зелёная- 3 листа
+ Лента красная
+
+Высота-50см
+Ширина-35см]]&gt;</description>
+        <param name="Ширина">35</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых эустом" unit="шт">4</consist>
+        <consist name="Веток эвкалипта" unit="шт">4</consist>
+      </offer>
+      <offer id="55f3d556-3083-4b86-b12e-32648e847f91" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 9 белых кустовых хризантем</name>
+        <price>3350</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/de1c17d9dbbf1650eb135a65acedfc61/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/75e402c47e28b1470d821d4ee446fc4c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/37e1d3374bf6ec6ede0c7647d013952e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/b1905d3556fbff82f77b2c9404aef42f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/75f926827c6b2097ef78b21ce6a219c7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/7ffb0e613abf08a6d0de1819b9baf3a7/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+ Плёнка матовая зелёная- 3 листа
+ Лента зелёная
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Белых кустовых хризантем" unit="шт">9</consist>
+      </offer>
+      <offer id="c47cbb0a-9479-4298-b177-84a7a4c13565" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 15 красных роз и 10 белых эустом</name>
+        <price>11330</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/f594514314be2e91bc64984923a92bb4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/e72b5930660c3df6e7741d7a384205fe/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/4e548464dbcb78fbfd638407e1d6ff32/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/c1e11325132668756937f1075bff848e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/6157e204aa44e10c8b46c65a2dff267c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/893a3da5bf0361f54c1df7888a1666b6/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+ Плёнка матовая зелёная- 3 листа
+ Лента зелёная
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Красных роз" unit="шт">15</consist>
+        <consist name="Белых эустом" unit="шт">10</consist>
+      </offer>
+      <offer id="b282e51a-986e-48bd-88db-7d83694b7d4e" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 5 красных роз, 4 белых эустом и 3 веток эвкалипта</name>
+        <price>5210</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/c6aaa3e31684ef8cf8e31d9da006b7e8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/255d83106ff4436a2a71022f5909ea9d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/24d33359eeae818551f3824b5314d149/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/4d5bc3e165f9ced0e133d8e84e82a10e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/c645dd38b52133c75e6b03ccc505b130/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/cbed18b45dd2d78c91cda1f05fe88b2b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/82561ef00db5ebb5f4805700548d0663/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая белая- 3 листа
+лента красная
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Белых эустом" unit="шт">4</consist>
+        <consist name="Веток эвкалипта" unit="шт">3</consist>
+      </offer>
+      <offer id="b41a1449-64b6-477f-a98a-f662b14060a4" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 15 красных роз и 6 веток эвкалипта</name>
+        <price>6770</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/21d8fb8f096f27f0d5b9189eda46000f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/71cab9d24a9086f3405e407cd3a02646/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/275e07554bc2b1f65fc3e70339947a00/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/2d61bbc2ba28ae45af4cac8b8794ced3/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/567db5a4499b24d3f0cc0a23323dd28c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/973f09057a42b7eba7e97ef8e7bbaef4/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая зелёная- 2 листа
+лента красная
+
+Высота-50см
+Ширина-35см]]&gt;</description>
+        <param name="Ширина">35</param>
+        <param name="Высота">50</param>
+        <consist name="Красных роз" unit="шт">15</consist>
+        <consist name="Веток эвкалипта" unit="шт">6</consist>
+      </offer>
+      <offer id="c4dc34da-efb7-45b7-a252-b9299455faf5" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 5 веток розовой гипсофилы</name>
+        <price>1499</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/1fc624f49646fdab6270fa98c989987c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/6a47e207b23fdce769c1a6d9ed021edd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/201d9752d8cb29d2ebb9b43e9dcb476a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/b16ca682469dc99820bf94d919961265/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/b8437f1660e5e9dc5270a4fb01204d3a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/d2dc0749ea2bb86edd8edd1642e9d23f/orig</picture>
+        <description>&lt;![CDATA[Тишью белое - 3 шт
+плёнка матовая полупрозрачная-2 листа
+плёнка матовая розовая- 3 листа
+лента розовая
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Веток розовой гипсофилы" unit="шт">5</consist>
+      </offer>
+      <offer id="5c3e4030-c968-4143-abdd-8472e649c519" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 голубой гортензии и 2 веток эвкалипта</name>
+        <price>1499</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/4334e7ef2714e08d6be67cd46ce964eb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/352cabbabedb402e27f2d79e436e6149/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/d3421d9e621eb4fcd1356e4debec6a66/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/37fa54712202993fb963519d4b9d07a4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/164a0226f3729d6075f24cbd6e853922/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/55f29b648bccc2a597ac7eb17d095f44/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая голубая- 3 листа
+лента голубая
+
+Высота-50см
+Ширина-20см]]&gt;</description>
+        <param name="Ширина">20</param>
+        <param name="Высота">50</param>
+        <consist name="Голубой гортензии" unit="шт">1</consist>
+        <consist name="Веток эвкалипта" unit="шт">2</consist>
+      </offer>
+      <offer id="3711e2eb-895a-4b32-a006-5d0d5041455c" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 3 голубых гортензии Колумбия</name>
+        <price>2870</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/c13ca1415e456961bca20d55072f6c0d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17735863/805b30d05ffcf95ab2571b879e614ea4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/30ab676e797ca34a37b5159344ab10db/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/8ac0e8be7f335db1aa6d19ddd9e412dd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/1a79a516e34d43fb86f39b497739595a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/c0fa0b15b3c4d74c29e628f52e15d2ce/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая голубая- 2 листа
+лента голубая
+
+Высота-50см
+Ширина-60см]]&gt;</description>
+        <param name="Ширина">60</param>
+        <param name="Высота">50</param>
+        <consist name="Голубых гортензии колумбия" unit="шт">3</consist>
+      </offer>
+      <offer id="313d5973-dffd-4070-b6ec-5c53d2148505" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 25 белых роз </name>
+        <price>9950</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/9d902f9cbe59c8dde4bf5c84d9a26d83/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/95e3d84e889ebccb6e0ff9a834b2fa4e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/39a1ada58547b7ba13b4e9dad97cd8f4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/7d211a53314273110392be1242ac8815/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/ec127b9975d35851eff3ed5418dd5484/orig</picture>
+        <description>&lt;![CDATA[Тишью белое-3 шт
+плёнка матовая полупрозрачная- 2 шт
+Плёнка матовая голубая- 2 листа
+лента голубая
+
+Высота-50см
+Ширина-35см]]&gt;</description>
+        <param name="Ширина">35</param>
+        <param name="Высота">50</param>
+        <consist name="Белых роз" unit="шт">25</consist>
+      </offer>
+      <offer id="c27db26c-cae4-4f11-905c-d216dc6e9abe" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 15 белых роз и 6 веток эвкалипта</name>
+        <price>7670</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/7551018b2a9b9047383941496ebcc3b1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/ac6d432b40d4010188868149dc1fd914/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/29ebdcd9998f72a4db5cbeb9c0c36510/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/3bf03a275b6468e37796b7b090fb24fc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/5ef6d779a31d245139fb6f0d3536c965/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/d66be61f5092fd1f0c763862cb44819f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/cab4f76d3b528b73be221a060f05ff08/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая голубая- 2 листа
+лента голубая
+
+Высота-50см
+Ширина-35см]]&gt;</description>
+        <param name="Ширина">35</param>
+        <param name="Высота">50</param>
+        <consist name="Белых роз" unit="шт">15</consist>
+        <consist name="Веток эвкалипта" unit="шт">6</consist>
+      </offer>
+      <offer id="d24df5d9-9edc-4b05-817c-3ea261fbe6aa" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 10 розовых и 9 белых эустом</name>
+        <price>12050</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17763632/e4f4b29c27cfc045e3a9dde5c5c92ab5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/e838505b99af76319ae938c0f7934eab/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/28875669b7ef345a930183f9021c007e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/fbe46ffdeca5cc12fc8661ab8dad9fff/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17763632/9fc295e91c37c96eda5395f772f35380/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20012354/eeb2a7fdd7b6b9c7a39a1eb0bf24208c/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая белая- 3 листа
+Лента белая
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых" unit="шт">10</consist>
+        <consist name="Белых эустом" unit="шт">9</consist>
+      </offer>
+      <offer id="843bfa0c-ebbf-4970-97ef-9bc853443563" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 белой гортензии, 5 белых роз, 4 розовых эустом, 2 розовых гипсофил и 4 веток эвкалипта</name>
+        <price>7105</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/df36bb66f6f6fee2a52042c195a0b907/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/2c9697710a4b0c3e6a8b085156ed5c71/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/c2f6dac747c145aa66f81642934786aa/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/d341da9727cdd2eae7977b5837ac75ee/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/1444602b587ee6e3f026e1a0931cfcb8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/223cfe67903ce910067c19b5169fb88a/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+ Плёнка матовая розовая- 3 листа
+ Лента розовая
+
+Высота-50см
+Ширина-35см]]&gt;</description>
+        <param name="Ширина">35</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых гипсофил" unit="шт">2</consist>
+        <consist name="Веток эвкалипта" unit="шт">4</consist>
+      </offer>
+      <offer id="2d47434a-4c05-49df-99a3-5b597187906b" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 9 розовых эустом</name>
+        <price>5930</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/03a51609d9b82cf16781873ce2592d03/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/5c7ecb4e75c2fe84e1216c818abc3a39/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/730c83af84614b3734c6a7b86e1925f2/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/f44430187f32d8c35daa33168becdb66/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/d46f2110acd050a72c77299a542b3eb1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/4bef99993c674faa2543a4ff8dea8a47/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/a6ab324097199dee491a7266eb5c6a07/orig</picture>
+        <description>&lt;![CDATA[Тишью розовое- 3 листа
+плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая белая- 3 листа
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых эустом" unit="шт">9</consist>
+      </offer>
+      <offer id="66026fc4-0ed6-4266-a324-951093ba5d2d" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 19 веток розовой гипсофилы</name>
+        <price>5210</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/8a4836b451edd28148d58fd1086a0a9c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/12cd7fce409c11403d5b092432f3e5da/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/f2409ce897f05f449ce64635f1baa7ad/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/9ba2b412ef8acd56ab093d167595b179/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/60dd8f9f428edd3af5ebfebeb5880aea/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/52fc9ad1227364675692f1d2557fdb6e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/33d9cd16f059bc7f38737929c24ad76f/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая розовая- 3 листа
+Лента розовая
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Веток розовой гипсофилы" unit="шт">19</consist>
+      </offer>
+      <offer id="12659c2f-bb98-41c5-baeb-fc60f5c46fa4" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 9 белых роз</name>
+        <price>3880</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/8891480d687d10aa6944429f4334ffb9/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/f278e0117f8229a43b9ebfb0d13b6d3b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/974f87daf99242cb1be980f8b43beb79/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/f5bd4a528afa6814896e8a5ae9172dc1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/b0cf6c6b5d1b33d1b3547c6eec790413/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/22a4f5400f1492d8de0c6a16b08ce1cc/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая голубая- 3 листа
+лента голубая
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Белых роз" unit="шт">9</consist>
+      </offer>
+      <offer id="04bf35d6-d560-43a1-8cb5-aa67ca99eb0a" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 15 розовых и 14 голубых гипсофил</name>
+        <price>7610</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/3ad18fcfd62b8590f13c61e8fc05a8d4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/bfea7a25ce26b348bd027b659b881af5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17735863/384d466ba10e36f63ba75a5f3a205fcb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/64627ff27128d7a12358f061489a646f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/ccf897eeee026817339152105a59c3a2/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/d55c23ed974b96b845897880a6438e8d/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая белая- 3 листа
+Лента белая
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Розовых" unit="шт">15</consist>
+        <consist name="Голубых гипсофил" unit="шт">14</consist>
+      </offer>
+      <offer id="d6917abe-91d6-47bf-81af-5087a5856b65" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 20 белых и 9 розовых хризантем</name>
+        <price>9230</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/1d70d6e23805904989ad7e5a39cda297/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/4d3afa3903ff8d33828924a4a6c9bfcd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/416ac4359eb60f0f987e04f583822399/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/0e9c8edab7050714d3d8bb6388f18ebf/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/cb040121306dc99ff1c0fb46632c551d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/d165383bffbc40baa3e4249814e6e61b/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая белая- 3 листа
+Лента белая
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Белых" unit="шт">20</consist>
+        <consist name="Розовых хризантем" unit="шт">9</consist>
+      </offer>
+      <offer id="0fd72f0a-aec1-456f-b809-e7ad7ff2201f" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 6 белых и 3 розовых хризантем</name>
+        <price>3195</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/f2505faa5ae806011ef2f9f17dd32ff6/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/fb1831135d06b82bede3824758e78e91/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/ffb0e3fb081b1e5b7ff8a887d6cb96f3/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/6766dd3f9c2c77b887d586d77129bef2/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/a697214ac6e3a7bfc9ce31133e62e4a9/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/85175aaac6bb3c8c22eb4def1e76e063/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая белая- 3 листа
+Лента белая
+
+Высота-60см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">60</param>
+        <consist name="Белых" unit="шт">6</consist>
+        <consist name="Розовых хризантем" unit="шт">3</consist>
+      </offer>
+      <offer id="d4d39201-2ce6-45cd-b543-c33114471e29" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 белой гортензии и 2 розовых гипсофил</name>
+        <price>1499</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17768400/d2a380df5fab3ffa5652b5fcf8c8ac9a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/20d8a1a212a8a9883e8dd5bab4149246/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/fada5d00c9889e069fc3cb74ade0e223/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/7ca24fec90db93cf083020b801357e6f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/3e465b47bca92feb21395dcfb58518ae/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/8df685046c9046e2e443761847bc8492/orig</picture>
+        <description>&lt;![CDATA[Тишью розовое- 3 листа
+плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая розовая- 3 листа
+лента розовая
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Белой гортензии" unit="шт">1</consist>
+        <consist name="Розовых гипсофил" unit="шт">2</consist>
+      </offer>
+      <offer id="c8014f1b-d193-43fb-93b6-17906b56562e" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 голубой гортензии и 2 голубых гипсофил</name>
+        <price>1499</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/4c1db0ca61b9ae85a9398143b1197274/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19853791/abecf51badfdc19f824195b01d082fe0/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/f16e1e2c21e3ebc1ce4528f25e97adb9/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/786ab09b49153124fe4d4f70d4accf7c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/fa70fdc9730fef843e0f777e70261aa5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19925171/b44e0489e70c9ba2f962f1f12e432df9/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/01bcb9834b5d7e89193fedaca214ae03/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+ Плёнка матовая полупрозрачная- 2 листа
+ Плёнка матовая голубая- 3 листа
+ лента голубая
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Голубой гортензии" unit="шт">1</consist>
+        <consist name="Голубых гипсофил" unit="шт">2</consist>
+      </offer>
+      <offer id="83ea4f87-03ab-4d31-b529-c0d0eba255c9" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 1 белой гортензии, 3 белых роз, 3 розовых эустом и 3 веток эвкалипта</name>
+        <price>5520</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/7d25139eb94e2b8449c1166af5e4c772/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/6e7dc553c6d9c5836bc726c2a716a5ce/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/e4f62181a396c3ce3f2137104936987a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/b1dacd10aafed4304f67e36cfb4dd990/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/037dddcc813de1c9e690e7cd20f6b9d4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/9e6782b7ab7eb716acf5c6f331a8942b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/3e701f9507d69064fe00c0335a8b8ef8/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+ Плёнка матовая полупрозрачная- 2 листа
+ Плёнка матовая белая -2 листа
+ Лента белая
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых эустом" unit="шт">3</consist>
+        <consist name="Веток эвкалипта" unit="шт">3</consist>
+      </offer>
+      <offer id="888525d2-afa4-4ea3-a4d6-c6f03b6fe8c3" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 51 красной розы</name>
+        <price>16560</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/7b738a1cd6a9ce200b6235153f653935/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/828cc2553fc83b0ed4367504571cd536/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/afb99a1c8ece458b693c2b04642c9544/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/827b118ca50dce4445cd864d039d3805/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/5ab618b0ac39d54a4a23ebd42b5661f6/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая белая- 3 листа
+Лента красная
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Красной розы" unit="шт">51</consist>
+      </offer>
+      <offer id="a4de95a2-ce92-43a1-b8f3-cd7267f7d43f" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 9 веток белой эустомы Алиса Вайт</name>
+        <price>5930</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/b5ce35199dc4ed828b4e290ac2b09884/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/c5b9d0c9a9d8d2380ef43bfdbb1200dd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/a09b4a81bbfdd234a054c50d3bad061a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/2cac7506d7dcf770c6572f82b2cbe43d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/2fab11757827f46bd44ca854d1f8f250/orig</picture>
+        <description>&lt;![CDATA[Тишью белое-3 шт
+плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая зелёная- 3 листа
+Лента зелёная
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Веток белой эустомы алиса вайт" unit="шт">9</consist>
+      </offer>
+      <offer id="b5362e7a-13a8-457f-b8b4-27f02d1ffe27" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 19 веток голубой гипсофилы</name>
+        <price>5210</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/8712bb0824550a6e17b0371d97c77d01/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/7dcbfaaf383338739c3ac462643798c9/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20194341/c8f6d093e43960b83c79821685cf1bd7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/be69fece91350ea85847069eedd60594/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/e71a6d35dd76a91c69a06bb663cb63d9/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая голубая- 3 листа
+Лента голубая
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Веток голубой гипсофилы" unit="шт">19</consist>
+      </offer>
+      <offer id="e439c43e-72c7-4826-8c45-a8c815a6aa94" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 9 веток голубой гипсофилы</name>
+        <price>2690</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/ecc652931e711f3aec03bb180b4daff3/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/af7518bbc8208a376aecd7fa82df3a0f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/822a1d06ed20728d1ef7f0f311ed0c9c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/7c19a321834ffd5ac0d62a08f3ff1158/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/86106ea68f957166eccd5dbd9611d46c/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая голубая- 3 листа
+лента голубая
+
+Высота-60см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">60</param>
+        <consist name="Веток голубой гипсофилы" unit="шт">9</consist>
+      </offer>
+      <offer id="f4e7bdf2-53f7-4b06-ba0f-5094457047d3" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 9 розовых хризантем и 6 розовых гипсофил</name>
+        <price>4790</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/c36208a28eb06078f78f72b9bc075851/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/8d5f739fccf7d7677b32d7391f56967a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/7f4e9a9ad362ff73086957dad8c3cd7b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/fdfb3bdbeb8aab7564cd3569bb44a41d/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/b5cbdd2c3a49013994c0ea8a76c6e0a0/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая зелёная- 3 листа
+Лента зелёная
+
+Высота-60см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">60</param>
+        <consist name="Розовых хризантем" unit="шт">9</consist>
+        <consist name="Розовых гипсофил" unit="шт">6</consist>
+      </offer>
+      <offer id="6c8df63e-0cc4-46eb-938f-8b626c43e840" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 голубых и 2 розовых гортензий</name>
+        <price>4500</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/edfada8d64d69dc84b66ca109d609fbe/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/c9f3520f29e06f9e427bbb5950c1b7cb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19855951/387bd3f37c777ff8992e7b630dcffb28/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/71e49d17d5a23172fd3235405f8f9f99/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/07b64cac0322f5936dc7f6de751d39f1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/76a2f92f7959cc1b6ebe742414691ae2/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая розовая- 3 листа
+Лента розовая
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Голубых" unit="шт">3</consist>
+        <consist name="Розовых гортензий" unit="шт">2</consist>
+      </offer>
+      <offer id="f219cce1-70f9-4cd2-9a03-4f05f718d0e9" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 розовых гортензий и 4 розовых гипсофил</name>
+        <price>3880</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/081b07f10e51337d7448f32e1cde6dc8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/3a18b8141219b196a946054f764d0da5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/0290933a3067a4d04af63a5e4bd0324e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/8043c201ead8d1df795c831b1e7793a1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18155812/a6d9aa2c6c36fa53fbc72e1a8488dd20/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/5b80450e5db84eb1beee402f27c5d1af/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/ac8916816c0f7d92ecf87f257e13a6ba/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/8128f8dc9128913a821da5aae26cc20c/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+ Плёнка матовая розовая- 3 листа
+ Лента розовая
+
+Высота-50см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">50</param>
+        <consist name="Розовых гортензий" unit="шт">3</consist>
+        <consist name="Розовых гипсофил" unit="шт">4</consist>
+      </offer>
+      <offer id="a12c7dd7-7b18-465c-841a-016693ecb0b7" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 розовых, 3 голубых и 3 белых гортензий</name>
+        <price>7524</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/fd453233cd32f4a0ddf45c8dcb5144c4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/f7c98720c385cb34fde57443c1eb0126/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/780f4126a30c2ba5f87c3ad0cd268cc4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20012354/59cbc562debcd7750536943e41cc9524/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17742006/da325f798919c936031beb30185c9a12/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/07c2ec9dedbac1a9f7c8b6f7c7f825a1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/8fc621f60517a2c0aff080d19b363a47/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая зелёная- 3 листа
+Лента зелёная
+
+Высота-50см
+Ширина-60см]]&gt;</description>
+        <param name="Ширина">60</param>
+        <param name="Высота">50</param>
+        <consist name="Голубых" unit="шт">3</consist>
+        <consist name="Белых гортензий" unit="шт">3</consist>
+      </offer>
+      <offer id="d22405da-a67e-4ada-97b7-d9f54858be69" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 белых хризантем и 3 веток эвкалипта</name>
+        <price>1999</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20179955/45bfdd3260979e99a8bb810fc08b7557/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/fdbc37ffe1202b8c0399f83ffdde8905/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/8b73c51f6d595fac833c00d529828cc8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/b584de2e1223b430ddbe2d16775aad8c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/60da2aefa1c4539d652c137f953be7a8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18022535/abb0213627027aa56569ddc52c99d153/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая зелёная- 3 листа
+лента красная
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Белых хризантем" unit="шт">3</consist>
+        <consist name="Веток эвкалипта" unit="шт">3</consist>
+      </offer>
+      <offer id="c87fd370-e091-4df8-bf7b-bcab4fdc08c7" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 9 красных роз Ред Наоми Россия</name>
+        <price>3340</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/8f53bc30a3b2e5191f25443584629572/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/89d9f3d3e8b6de9bb8367160a6f1a739/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/6da8467d070767b933ac3d38e596a27b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/54a35610db76b7435effbf74b5f2e790/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/7245931bf5e1ca197a98f2d6f439b518/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/a97d7a4e6a14d47a8f6ce8ee98151ff5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/e947af5a00882ea0c6c358ff3f42b9ce/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 листа
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая белая -3 листа
+Лента красная
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Красных роз ред наоми россия" unit="шт">9</consist>
+      </offer>
+      <offer id="d32d2a59-f7b9-4293-90da-918970cd8c57" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 5 белых кустовых хризантем</name>
+        <price>1999</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/32c8f222c9356c91f15f21a0e4fbd69a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/8630d12f79716e8bc125ac9c4b414463/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/864729aeec131338eaf99ba514ed7045/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/7faff9a7d812817041c330fd3ba1ff0a/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/02701fc16e6ce698efdeb3a90ebcc501/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20412437/a27b0df94804d9a2e07a7a3ea68e6eac/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая голубая- 2 листа
+лента голубая
+
+Высота-60см
+Ширина-55см]]&gt;</description>
+        <param name="Ширина">55</param>
+        <param name="Высота">60</param>
+        <consist name="Белых кустовых хризантем" unit="шт">5</consist>
+      </offer>
+      <offer id="0f6fe2db-c54d-4444-aa6c-51230ea7998e" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 9 белых роз Аваланж 4 ветки эвкалипта цинерия</name>
+        <price>4840</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19513998/065c51314214322e2ab05a42acef076f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/2aa68d8617d49cd22ab802f17c8a7976/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18772141/f7a6e1d812321b2eb386b37170d9d7b4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/c216203aed7699c0b3efd44d2d0cf888/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/62769a77425c41c340f420b6764abbd0/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20260744/958aad3904712a1fec142729a38c8c77/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая зелёная- 3 листа
+лента зелёная
+
+Высота-50см
+Ширина-30см]]&gt;</description>
+        <param name="Ширина">30</param>
+        <param name="Высота">50</param>
+        <consist name="Белых роз аваланж 4 ветки эвкалипта цинерия" unit="шт">9</consist>
+      </offer>
+      <offer id="247ece17-f92b-452e-879a-1f451a5bba4c" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 9 белых кустовых ромашковых хризантем</name>
+        <price>3230</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/bc207c6d5dc1bf272f4ca66e48196963/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/f91d0bb17807162556876cc401a3e3c1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/20193126/d0d787a1187effe47833d596fb6dd249/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/70eecdaa97872c133f5df9d474f605ed/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18916937/c737c3584fdb66ec513a11f6ce9dfc66/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая голубая- 3 листа
+Лента голубая
+
+Высота-60см
+Ширина-65см]]&gt;</description>
+        <param name="Ширина">65</param>
+        <param name="Высота">60</param>
+        <consist name="Белых кустовых ромашковых хризантем" unit="шт">9</consist>
+      </offer>
+      <offer id="2d610df6-388a-42a0-8b07-71f5c0613058" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 3 белых хризантем и 2 голубых гипсофил</name>
+        <price>1699</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/19396445/44b01ca2e667d15a249a80c7df029e75/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/0bacea6fc2dd6eb67b512e45853f871b/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/ff4e4105420f38c403645735fbabefe7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/cbbdae1d0dcdac25171d646b5d4aebf9/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/088e0d85ed43814363368150aa99d235/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/e9032da35232af241c74a32216b7b8f0/orig</picture>
+        <description>&lt;![CDATA[Тишью белое- 3 шт
+Плёнка матовая полупрозрачная- 2 листа
+Плёнка матовая голубая- 3 листа
+лента голубая
+
+Высота-50см
+Ширина-25см]]&gt;</description>
+        <param name="Ширина">25</param>
+        <param name="Высота">50</param>
+        <consist name="Белых хризантем" unit="шт">3</consist>
+        <consist name="Голубых гипсофил" unit="шт">2</consist>
+      </offer>
+      <offer id="10746591-36a5-488c-a82e-7716549a6d15" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет из 9 белых хризантем и 6 голубых гипсофил</name>
+        <price>4680</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/17751752/ced9f09ea9bb224ee1212e93fa78d790/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17735863/26d08487f9b5e66989efcad9d5a088f3/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/5a9b13636138769d94cb9577c63ac4f3/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/44340e2649add6496bab012e1a5dbf51/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18473941/f6371a936564bb69b285534bc3f8fa13/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/a4fc4f9bdd6015d9ddf864073884ec05/orig</picture>
+        <description>&lt;![CDATA[Плёнка матовая полупрозрачная- 3 листа
+Плёнка матовая голубая- 3 листа
+Лента голубая
+
+Высота-60см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">60</param>
+        <consist name="Белых хризантем" unit="шт">9</consist>
+        <consist name="Голубых гипсофил" unit="шт">6</consist>
+      </offer>
+      <offer id="73f44219-0b4d-4fc3-89c4-576d7fd155c6" available="true">
+        <categoryId>1</categoryId>
+        <name>Букет 9 веток розовой гипсофилы</name>
+        <price>2690</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://avatars.mds.yandex.net/get-eda/20022421/6ad7061c2eb097e416253878cd604b3e/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18174674/2bd96e31caf8d6b842df62d2e9e24108/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17635794/3c3b725f438b595173f43b18cb5a95e1/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/250abd9f72b624ff877b017ebe30d4c0/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/18753459/9069f028675312b041f1c7ffc78c3b6c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-eda/17752687/8052f2152e009ec52736d4981a4abadf/orig</picture>
+        <description>&lt;![CDATA[Тишью белое - 3 шт
+плёнка матовая полупрозрачная-2 листа
+плёнка матовая розовая- 3 листа
+лента розовая
+
+Высота-60см
+Ширина-40см]]&gt;</description>
+        <param name="Ширина">40</param>
+        <param name="Высота">60</param>
+        <consist name="Веток розовой гипсофилы" unit="шт">9</consist>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

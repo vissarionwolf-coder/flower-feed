@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <yml_catalog date="2026-05-26 20:11">
-  <shop>
+  <shop version="1.0">
     <name>Flower Shop</name>
     <company>Flower Shop</company>
     <url>https://github.com</url>
@@ -15,7 +15,9 @@
         <name>Букет из 3 розовых хризантем и 3 веток эвкалипта</name>
         <price>1999</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20012354/ca70d7a1162ca35efcacc7d3c366aec5/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/c74c8725bed53a2bef62b5e9ab1566a4/orig</picture>
@@ -35,7 +37,9 @@
         <name>Букет из 5 розовых хризантем и 4 белых эустом</name>
         <price>4430</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/bc1df559b9d2579ca66488d091215d8b/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18772141/8d77b300921ec632ff6602aa5778637a/orig</picture>
@@ -54,7 +58,9 @@
         <name>Букет из 10 белых и 5 розовых хризантем</name>
         <price>4999</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18473941/c65a92ad4bec1895c73b6fc5161c8da7/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/ebd2a9cbe1324ac056bc974979b63c2c/orig</picture>
@@ -72,7 +78,9 @@
         <name>Букет из 9 красных роз и 4 веток эвкалипта</name>
         <price>4300</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/f60864f1929e4a6b84190e9d3c5e0760/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/19396445/db5cc076ccbdd0d192703c6b64de702a/orig</picture>
@@ -93,7 +101,9 @@
         <name>Букет из 5 белых роз, 4 розовых эустом и 3 веток эвкалипта</name>
         <price>5510</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17742006/a7bea93189353270dd86db6e260d225c/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17751752/781ffa03e052b2ca930bb5d9caac0d73/orig</picture>
@@ -112,7 +122,9 @@
         <name>Букет из 35 красных роз</name>
         <price>11570</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19925171/291f15db04fcfdf030abf94f38c7350f/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/19925171/2fe555e96d2aa3675f5162fe3283cae5/orig</picture>
@@ -130,7 +142,9 @@
         <name>Букет из 1 голубой гортензии, 3 белых роз, 3 белых эустом и 3 веток эвкалипта</name>
         <price>4550</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/b5960cdf79db237718d8dbe5ca8401f8/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/19513998/bc1aaf1eea2910a78650b76258c46743/orig</picture>
@@ -151,7 +165,9 @@
         <name>Букет из 3 белых и 2 розовых гортензий</name>
         <price>4430</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/5eb5c395f43d37afb928d3dfe8c71162/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18473941/8a6fb19766ba8df504710b8332a10636/orig</picture>
@@ -170,7 +186,9 @@
         <name>Букет из 3 розовых гортензий</name>
         <price>2800</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/14231618cd27638f440a104f4ab688ad/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18753459/24e659578e2bedc8384d7366ecd5d5d7/orig</picture>
@@ -189,7 +207,9 @@
         <name>Букет из 15 красных роз</name>
         <price>4999</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20194341/0209acf852630e05385bfbb3af67ce08/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17742006/56621d5427139a5349c33ff661843a48/orig</picture>
@@ -207,7 +227,9 @@
         <name>Букет из 5 белых хризантем и 4 белых эустом</name>
         <price>4430</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18772141/aebb9fca00e3f7f4460953d6e2df7f7e/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/c0bfafedae196eee5b96c73da5295358/orig</picture>
@@ -226,7 +248,9 @@
         <name>Букет из 3 белых хризантем и 2 розовых гипсофил</name>
         <price>1599</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17751752/70fe31b480da3d247a0801cdc4050305/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18174674/19cc6fd70b85131c8ee65782111c4745/orig</picture>
@@ -244,7 +268,9 @@
         <name>Букет из 9 розовых хризантем</name>
         <price>2999</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20412437/c522d304f8f82ce9411d4981071e387d/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20194341/6e5d1c3292a03475b032f4d16e23e578/orig</picture>
@@ -261,7 +287,9 @@
         <name>Букет из 3 розовых хризантем и 2 розовых гипсофил</name>
         <price>1599</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/d4fba4b0d376643abc1ea70a4362982d/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18473941/b29fc88a6f0fdd8d87a9347cdebddefd/orig</picture>
@@ -279,7 +307,9 @@
         <name>Букет из 15 белых роз</name>
         <price>6110</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/8611d7d1e0099f723d479f9a18692f9e/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/7d7b6b4b9bf335786016e3f5b6be5418/orig</picture>
@@ -297,7 +327,9 @@
         <name>Букет из 5 голубых гипсофил</name>
         <price>1599</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18174674/e7d50eb646a0d982b0da2eb09ccb0a5c/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18174674/20ffa79f23306139d129f419061aeffc/orig</picture>
@@ -314,7 +346,9 @@
         <name>Букет из 1 голубой гортензии, 5 белых роз, 4 белых эустом, 2 голубых гипсофил и 4 веток эвкалипта</name>
         <price>7105</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18772141/762bf1b72be5ba8da60e522d81733f15/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/bdcea9da4fe7999675461977aa81c576/orig</picture>
@@ -336,7 +370,9 @@
         <name>Букет из 3 голубых гортензий и 4 голубых гипсофил</name>
         <price>3950</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17635794/e228a91a429d94a20d0114be7492e409/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20412437/5a91fff977062fd0fbc136e0b4e95716/orig</picture>
@@ -355,7 +391,9 @@
         <name>Букет из 1 розовой гортензии, 3 красных роз, 3 розовых эустом и 3 веток эвкалипта</name>
         <price>4740</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20012354/ad8c9336bf3f106f98d9ec75702266ec/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/0ce69761b2fbf931a64bbaa2329c910a/orig</picture>
@@ -376,7 +414,9 @@
         <name>Букет из 5 розовых хризантем</name>
         <price>1899</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17768400/b2d33590f7710dedaa3212489e03c188/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20193126/a878064b8f81a4a83f92626e43ad349c/orig</picture>
@@ -393,7 +433,9 @@
         <name>Букет из 5 белых хризантем</name>
         <price>1899</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/cd7b3de343cf3fde7889f58ee78da50c/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17635794/d1d2dffabd633e8753b5801ba22e0f76/orig</picture>
@@ -411,7 +453,9 @@
         <name>Букет из 13 красных и 12 белых роз</name>
         <price>9230</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/ab60b6e9a2e33567ddb466835b86def8/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/19513998/3e0254bd644bde7658e273d9643f5d3d/orig</picture>
@@ -432,7 +476,9 @@
         <name>Букет из 25 белых и 26 красных роз</name>
         <price>18060</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/59851afad2676344063474cde8b1235f/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20022421/88b2f73f072316da38c0e7c5b68d7ec3/orig</picture>
@@ -450,7 +496,9 @@
         <name>Букет из 5 белых хризантем и 4 розовых эустом</name>
         <price>4430</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19925171/b28696b3cc3312786eb01259e3136aed/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/8f720de44209eeac32bc440e3058fef1/orig</picture>
@@ -470,7 +518,9 @@
         <name>Букет из 1 розовой гортензии и 2 веток эвкалипта</name>
         <price>1499</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/deec338f56b76fc7881cb7db32d209a3/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18772141/0a5d97d1875651aede07520c941da3fb/orig</picture>
@@ -488,7 +538,9 @@
         <name>Букет из 15 белых роз и 10 розовых эустом</name>
         <price>12230</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18473941/0b91295f49402bf7b6f30f9efcb1833f/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17768400/9246a48329433ea60dcdb3c1fbbb4707/orig</picture>
@@ -507,7 +559,9 @@
         <name>Букет из 3 белых гортензий и 4 голубых гипсофил</name>
         <price>3760</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17751752/bd0c187c4a7017ca77f058566537202c/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17752687/799e0bca80267763dbbfd1ee373e3d3f/orig</picture>
@@ -526,7 +580,9 @@
         <name>Букет из 3 белых и 2 голубых гортензий</name>
         <price>4480</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17763632/c9f76aafcc138f1dcc9f8c039bb5dab5/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/dc46e7984bde92359c28a40c9ae7e74b/orig</picture>
@@ -546,7 +602,9 @@
         <name>Букет из 1 белой гортензии и 2 веток эвкалипта</name>
         <price>1499</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18753459/24dd6e772029d8b8071a1039c46e80d7/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/19925171/6fadefa8a831d483d8595e32d992d2dc/orig</picture>
@@ -564,7 +622,9 @@
         <name>Букет из 1 розовой гортензии и 2 розовых гипсофил</name>
         <price>1499</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19513998/4cc4056429c7a637dec5957e232e8797/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/c10d12c72c32b57ba18aaf64310251f3/orig</picture>
@@ -583,7 +643,9 @@
         <name>Букет из 3 белых хризантем и 4 веток эвкалипта</name>
         <price>2390</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17752687/485e096e3703b7ef672ac553f46243f6/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/ab0611c7404fae45b0205eb259083c9d/orig</picture>
@@ -602,7 +664,9 @@
         <name>Букет из 9 белых хризантем и 6 розовых гипсофил</name>
         <price>4790</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17768400/6787be9e8e7d10849d02d3c47e0f6665/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20412437/7449c804cc522835b133600b51a1f2fd/orig</picture>
@@ -620,7 +684,9 @@
         <name>Букет из 3 белых гортензий</name>
         <price>2800</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19925171/63e2c3ab9791e5adfcd5adfbca8c6681/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20412437/717f09bf13b40c45c24f270eeee15c07/orig</picture>
@@ -637,7 +703,9 @@
         <name>Букет из 1 розовой гортензии, 5 красных роз, 2 розовых гипсофил, 4 розовых эустом и 4 веток эвкалипта</name>
         <price>6805</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19396445/4d5002d70b5f2cb0a34fa617207bfc0b/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/6e130b3692045a86aa8afbdcc88db138/orig</picture>
@@ -659,7 +727,9 @@
         <name>Букет из 9 белых кустовых хризантем</name>
         <price>3350</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18155812/de1c17d9dbbf1650eb135a65acedfc61/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/19513998/75e402c47e28b1470d821d4ee446fc4c/orig</picture>
@@ -677,7 +747,9 @@
         <name>Букет из 15 красных роз и 10 белых эустом</name>
         <price>11330</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17635794/f594514314be2e91bc64984923a92bb4/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/19925171/e72b5930660c3df6e7741d7a384205fe/orig</picture>
@@ -696,7 +768,9 @@
         <name>Букет из 5 красных роз, 4 белых эустом и 3 веток эвкалипта</name>
         <price>5210</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19396445/c6aaa3e31684ef8cf8e31d9da006b7e8/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17742006/255d83106ff4436a2a71022f5909ea9d/orig</picture>
@@ -717,7 +791,9 @@
         <name>Букет из 15 красных роз и 6 веток эвкалипта</name>
         <price>6770</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17768400/21d8fb8f096f27f0d5b9189eda46000f/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20193126/71cab9d24a9086f3405e407cd3a02646/orig</picture>
@@ -736,7 +812,9 @@
         <name>Букет 5 веток розовой гипсофилы</name>
         <price>1499</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19925171/1fc624f49646fdab6270fa98c989987c/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/6a47e207b23fdce769c1a6d9ed021edd/orig</picture>
@@ -753,7 +831,9 @@
         <name>Букет из 1 голубой гортензии и 2 веток эвкалипта</name>
         <price>1499</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17635794/4334e7ef2714e08d6be67cd46ce964eb/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20412437/352cabbabedb402e27f2d79e436e6149/orig</picture>
@@ -771,7 +851,9 @@
         <name>Букет 3 голубых гортензии Колумбия</name>
         <price>2870</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17635794/c13ca1415e456961bca20d55072f6c0d/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17735863/805b30d05ffcf95ab2571b879e614ea4/orig</picture>
@@ -789,7 +871,9 @@
         <name>Букет из 25 белых роз </name>
         <price>9950</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20193126/9d902f9cbe59c8dde4bf5c84d9a26d83/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17635794/95e3d84e889ebccb6e0ff9a834b2fa4e/orig</picture>
@@ -806,7 +890,9 @@
         <name>Букет из 15 белых роз и 6 веток эвкалипта</name>
         <price>7670</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19925171/7551018b2a9b9047383941496ebcc3b1/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17742006/ac6d432b40d4010188868149dc1fd914/orig</picture>
@@ -826,7 +912,9 @@
         <name>Букет из 10 розовых и 9 белых эустом</name>
         <price>12050</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17763632/e4f4b29c27cfc045e3a9dde5c5c92ab5/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17635794/e838505b99af76319ae938c0f7934eab/orig</picture>
@@ -845,7 +933,9 @@
         <name>Букет из 1 белой гортензии, 5 белых роз, 4 розовых эустом, 2 розовых гипсофил и 4 веток эвкалипта</name>
         <price>7105</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/df36bb66f6f6fee2a52042c195a0b907/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17751752/2c9697710a4b0c3e6a8b085156ed5c71/orig</picture>
@@ -867,7 +957,9 @@
         <name>Букет из 9 розовых эустом</name>
         <price>5930</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17742006/03a51609d9b82cf16781873ce2592d03/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/5c7ecb4e75c2fe84e1216c818abc3a39/orig</picture>
@@ -886,7 +978,9 @@
         <name>Букет 19 веток розовой гипсофилы</name>
         <price>5210</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18473941/8a4836b451edd28148d58fd1086a0a9c/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/12cd7fce409c11403d5b092432f3e5da/orig</picture>
@@ -905,7 +999,9 @@
         <name>Букет 9 белых роз</name>
         <price>3880</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18753459/8891480d687d10aa6944429f4334ffb9/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18155812/f278e0117f8229a43b9ebfb0d13b6d3b/orig</picture>
@@ -923,7 +1019,9 @@
         <name>Букет из 15 розовых и 14 голубых гипсофил</name>
         <price>7610</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18155812/3ad18fcfd62b8590f13c61e8fc05a8d4/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20022421/bfea7a25ce26b348bd027b659b881af5/orig</picture>
@@ -942,7 +1040,9 @@
         <name>Букет из 20 белых и 9 розовых хризантем</name>
         <price>9230</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18753459/1d70d6e23805904989ad7e5a39cda297/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20194341/4d3afa3903ff8d33828924a4a6c9bfcd/orig</picture>
@@ -961,7 +1061,9 @@
         <name>Букет из 6 белых и 3 розовых хризантем</name>
         <price>3195</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19925171/f2505faa5ae806011ef2f9f17dd32ff6/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18155812/fb1831135d06b82bede3824758e78e91/orig</picture>
@@ -980,7 +1082,9 @@
         <name>Букет из 1 белой гортензии и 2 розовых гипсофил</name>
         <price>1499</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17768400/d2a380df5fab3ffa5652b5fcf8c8ac9a/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20022421/20d8a1a212a8a9883e8dd5bab4149246/orig</picture>
@@ -998,7 +1102,9 @@
         <name>Букет из 1 голубой гортензии и 2 голубых гипсофил</name>
         <price>1499</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/4c1db0ca61b9ae85a9398143b1197274/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/19853791/abecf51badfdc19f824195b01d082fe0/orig</picture>
@@ -1017,7 +1123,9 @@
         <name>Букет из 1 белой гортензии, 3 белых роз, 3 розовых эустом и 3 веток эвкалипта</name>
         <price>5520</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17635794/7d25139eb94e2b8449c1166af5e4c772/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/6e7dc553c6d9c5836bc726c2a716a5ce/orig</picture>
@@ -1039,7 +1147,9 @@
         <name>Букет 51 красной розы</name>
         <price>16560</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/7b738a1cd6a9ce200b6235153f653935/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20194341/828cc2553fc83b0ed4367504571cd536/orig</picture>
@@ -1056,7 +1166,9 @@
         <name>Букет 9 веток белой эустомы Алиса Вайт</name>
         <price>5930</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17742006/b5ce35199dc4ed828b4e290ac2b09884/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20194341/c5b9d0c9a9d8d2380ef43bfdbb1200dd/orig</picture>
@@ -1073,7 +1185,9 @@
         <name>Букет 19 веток голубой гипсофилы</name>
         <price>5210</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18174674/8712bb0824550a6e17b0371d97c77d01/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20260744/7dcbfaaf383338739c3ac462643798c9/orig</picture>
@@ -1090,7 +1204,9 @@
         <name>Букет 9 веток голубой гипсофилы</name>
         <price>2690</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/ecc652931e711f3aec03bb180b4daff3/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18772141/af7518bbc8208a376aecd7fa82df3a0f/orig</picture>
@@ -1107,7 +1223,9 @@
         <name>Букет из 9 розовых хризантем и 6 розовых гипсофил</name>
         <price>4790</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19396445/c36208a28eb06078f78f72b9bc075851/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18155812/8d5f739fccf7d7677b32d7391f56967a/orig</picture>
@@ -1125,7 +1243,9 @@
         <name>Букет из 3 голубых и 2 розовых гортензий</name>
         <price>4500</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17752687/edfada8d64d69dc84b66ca109d609fbe/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18753459/c9f3520f29e06f9e427bbb5950c1b7cb/orig</picture>
@@ -1144,7 +1264,9 @@
         <name>Букет из 3 розовых гортензий и 4 розовых гипсофил</name>
         <price>3880</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/081b07f10e51337d7448f32e1cde6dc8/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17742006/3a18b8141219b196a946054f764d0da5/orig</picture>
@@ -1165,7 +1287,9 @@
         <name>Букет из 3 розовых, 3 голубых и 3 белых гортензий</name>
         <price>7524</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19513998/fd453233cd32f4a0ddf45c8dcb5144c4/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17742006/f7c98720c385cb34fde57443c1eb0126/orig</picture>
@@ -1186,7 +1310,9 @@
         <name>Букет из 3 белых хризантем и 3 веток эвкалипта</name>
         <price>1999</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/45bfdd3260979e99a8bb810fc08b7557/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18772141/fdbc37ffe1202b8c0399f83ffdde8905/orig</picture>
@@ -1204,7 +1330,9 @@
         <name>Букет 9 красных роз Ред Наоми Россия</name>
         <price>3340</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/8f53bc30a3b2e5191f25443584629572/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18174674/89d9f3d3e8b6de9bb8367160a6f1a739/orig</picture>
@@ -1223,7 +1351,9 @@
         <name>Букет из 5 белых кустовых хризантем</name>
         <price>1999</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/18916937/32c8f222c9356c91f15f21a0e4fbd69a/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/20412437/8630d12f79716e8bc125ac9c4b414463/orig</picture>
@@ -1240,7 +1370,9 @@
         <name>Букет 9 белых роз Аваланж 4 ветки эвкалипта цинерия</name>
         <price>4840</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19513998/065c51314214322e2ab05a42acef076f/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/19396445/2aa68d8617d49cd22ab802f17c8a7976/orig</picture>
@@ -1258,7 +1390,9 @@
         <name>Букет из 9 белых кустовых ромашковых хризантем</name>
         <price>3230</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19396445/bc207c6d5dc1bf272f4ca66e48196963/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17752687/f91d0bb17807162556876cc401a3e3c1/orig</picture>
@@ -1275,7 +1409,9 @@
         <name>Букет из 3 белых хризантем и 2 голубых гипсофил</name>
         <price>1699</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/19396445/44b01ca2e667d15a249a80c7df029e75/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17751752/0bacea6fc2dd6eb67b512e45853f871b/orig</picture>
@@ -1293,7 +1429,9 @@
         <name>Букет из 9 белых хризантем и 6 голубых гипсофил</name>
         <price>4680</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/17751752/ced9f09ea9bb224ee1212e93fa78d790/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/17735863/26d08487f9b5e66989efcad9d5a088f3/orig</picture>
@@ -1312,7 +1450,9 @@
         <name>Букет 9 веток розовой гипсофилы</name>
         <price>2690</price>
         <currencyId>RUB</currencyId>
-        <description/>
+        <description><![CDATA[Каждый букет — это сочетание свежих цветов, гармонии оттенков и внимания к деталям. Мы тщательно собираем композиции, чтобы они дарили эмоции и радовали своей красотой как можно дольше.
+
+К каждому букету мы обязательно добавляем инструкцию по уходу и подкормку для цветов, чтобы композиция дольше сохраняла свежесть и радовала получателя.]]></description>
         <qty>10</qty>
         <picture>https://avatars.mds.yandex.net/get-eda/20022421/6ad7061c2eb097e416253878cd604b3e/orig</picture>
         <picture>https://avatars.mds.yandex.net/get-eda/18174674/2bd96e31caf8d6b842df62d2e9e24108/orig</picture>

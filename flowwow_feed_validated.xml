@@ -824,7 +824,7 @@
         <picture>https://avatars.mds.yandex.net/get-eda/18174674/d2dc0749ea2bb86edd8edd1642e9d23f/orig</picture>
         <param name="Ширина, Мм">350</param>
         <param name="Высота, Мм">500</param>
-        <consist name="Розовой гипсофилы" unit="шт">5</consist>
+        <consist name="Розовые гипсофилы" unit="шт">5</consist>
         <consist name="Дизайнерская упаковка" unit="шт">1</consist>
       </offer>
       <offer id="5c3e4030-c968-4143-abdd-8472e649c519" available="true">
@@ -991,7 +991,7 @@
         <picture>https://avatars.mds.yandex.net/get-eda/20179955/33d9cd16f059bc7f38737929c24ad76f/orig</picture>
         <param name="Ширина, Мм">350</param>
         <param name="Высота, Мм">500</param>
-        <consist name="Розовой гипсофилы" unit="шт">19</consist>
+        <consist name="Розовые гипсофилы" unit="шт">19</consist>
         <consist name="Дизайнерская упаковка" unit="шт">1</consist>
         <consist name="Коробка транспортировочная" unit="шт">1</consist>
       </offer>
